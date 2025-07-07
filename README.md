@@ -27,5 +27,5 @@ Estoy realizando mis **prácticas profesionales en Additius Santa Maria**, donde
 
 ## 📫 Conecta conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ignasi-palau-b6455432b/))
-- ✉️ Email: iignasipalau@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ignasi-palau-b6455432b/)
+- ✉️ iignasipalau@gmail.com
