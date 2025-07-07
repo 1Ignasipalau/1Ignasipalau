@@ -1,4 +1,4 @@
-# 👋 ¡Hola mi nombre es Ignasi,
+# Hola mi nombre es Ignasi,
 
 🎓 Desarrollador en formación | Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)  
 🔧 Apasionado por el desarrollo web, el diseño limpio y el código eficiente  
