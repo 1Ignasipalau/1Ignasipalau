@@ -6,19 +6,19 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 Actualmente estoy cursando el ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, tras haber completado el **Bachillerato Tecnológico**, donde descubrí mi pasión por la programación y el desarrollo de software.
 
 Estoy realizando mis **prácticas profesionales en Additius Santa Maria**, donde participo activamente en proyectos del departamento de informática, desarrollando principalmente:
 
-- 🖥️ **Frontend web** moderno y responsivo (React, SCSS)
-- 🔗 **APIs profesionales** en C# con ASP.NET Core
-- 🗃️ **Gestión de bases de datos** PostgreSQL
+-  **Frontend web** moderno y responsivo (React, SCSS)
+-  **APIs profesionales** en C# con ASP.NET Core
+-  **Gestión de bases de datos** PostgreSQL
 
 ---
 
-## 🛠️ Tecnologías que uso
+## Tecnologías que uso
 
 | Lenguajes | Frameworks & Tools | Bases de datos |
 |----------|---------------------|----------------|
